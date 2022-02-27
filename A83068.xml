@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of that most religious and pious prince K. Edward the sixth to Nicholas Ridley Bishop of London,  for the taking downe of altars, and setting up the table in the steed thereof, subscribed by nine of the said kings Privie Councell, together with the said kings six reasons for the same alteration; all which are set forth in the Ecclesiasticall history, containing the Acts and monuments of martyrs, written by M. John Fox, and may there be read in the life of that ever blessed king.</title>
+            <author>Edward VI, King of England, 1537-1553.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83068</idno>
+            <idno type="STC">Wing E186</idno>
+            <idno type="STC">Thomason E157_16</idno>
+            <idno type="STC">ESTC R212699</idno>
+            <idno type="EEBO-CITATION">99871284</idno>
+            <idno type="PROQUEST">99871284</idno>
+            <idno type="VID">156896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156896)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E157[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of that most religious and pious prince K. Edward the sixth to Nicholas Ridley Bishop of London,  for the taking downe of altars, and setting up the table in the steed thereof, subscribed by nine of the said kings Privie Councell, together with the said kings six reasons for the same alteration; all which are set forth in the Ecclesiasticall history, containing the Acts and monuments of martyrs, written by M. John Fox, and may there be read in the life of that ever blessed king.</title>
+                  <author>Edward VI, King of England, 1537-1553.</author>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>[2], 5 [i.e. 9], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 8, 9 misnumbered 4, 5 respectively.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Altars --  Early works to 1800.</term>
+               <term>Communion table --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156896:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>A LETTER of that moſt religi<g ref="char:EOLhyphen"/>ous and pious Prince K. <hi>Edward</hi> the ſixth to <hi>Nicholas Ridley</hi> Biſhop of <hi>London,</hi> for the taking downe of <hi>Altars,</hi> and ſetting up the <hi>Table</hi> in the ſteed thereof, ſubſcribed by nine of the ſaid Kings Privie Councell, together with the ſaid Kings ſix reaſons for the ſame alteration; All which are ſet forth in the <hi>Eccleſiaſticall Hiſtory,</hi> containing the <hi>Acts</hi> and <hi>Monuments</hi> or <hi>Martyrs,</hi> written by <hi>M. John Fox,</hi> and may there <hi>be read in the life of that ever bleſſed King.</hi>
+            </p>
+            <p>London, Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156896:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="1" facs="tcp:156896:2"/>
+            <!-- PDF PAGE 80 -->
+            <head>A Letter of that moſt Religi<g ref="char:EOLhyphen"/>ous and pious Prince King <hi>Edward</hi> the ſixth to <hi>Nicholas Ridley,</hi> Biſhop of <hi>London,</hi> for the taking downe of Altars, and ſetting up the Table, &amp;c.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">R</seg>Ight reverend Father in God, right truſty and welbeloved, wee greet you well;</salute>
+            </opener>
+            <p>And where it is come to our knowledge, that the <hi>Altars</hi> within the moſt part of the Churches of this Realme, being already upon good and godly con<g ref="char:EOLhyphen"/>ſiderations taken downe, there doe yet remaine <hi>Altars</hi> ſtanding in divers other <hi>Churches,</hi> by occa<g ref="char:EOLhyphen"/>ſion wherof much variance and contention ariſeth amongſt ſundry of our Subjects, which if good fore-ſight were not had, might perchance engen<g ref="char:EOLhyphen"/>der great hurt and inconvenience: Wee let you wit, that minding to have all occaſion of conten<g ref="char:EOLhyphen"/>tion taken away, which many times groweth by thoſe and ſuch like diverſities; and conſidering that amongſt other things belonging to our Roy<g ref="char:EOLhyphen"/>all Office and care, Wee doe account the greateſt to be to maintain the co<g ref="char:cmbAbbrStroke">̄</g>mon quiet of our Realme, Wee have thought good, by the advice of our
+<pb n="2" facs="tcp:156896:3"/>
+               <!-- PDF PAGE 81 -->Counſell, to require you, and nevertheleſſe eſpe<g ref="char:EOLhyphen"/>cially to charge and command you for the avoyd<g ref="char:EOLhyphen"/>ing of all matters of further contention and ſtrife, about the ſtanding or taking away of the ſaid <hi>Al<g ref="char:EOLhyphen"/>tars,</hi> to give ſubſtantiall order throughout all your Dioceſſe, that with all diligence, all the <hi>Altars</hi> in every <hi>Church</hi> or <hi>Chappell,</hi> as well in places exemp<g ref="char:EOLhyphen"/>ted, as not exempted, within your ſaid Dioceſſe be t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken downe, and in the ſteed thereof a <hi>Table</hi> to be ſet up in ſome convenient part of the <hi>Chancell</hi> within every ſuch <hi>Church</hi> or <hi>Chappell,</hi> to ſerve for the miniſtration of the bleſſed <hi>Communion;</hi> and to the intent the ſame may be done without offence of ſuch our loving Subjects, as be not yet ſo well perſwaded in that behalfe, as we would wiſh, wee ſend unto you herewith certaine conſiderations gathered and collected, that make for the purpoſe, the which, and ſuch others as you ſhall think meet to be ſet forth to perſwade the weake to embrace our proceedings in this part, wee pray you cauſe to bee declared to the people by ſome diſcreet Preachers, in ſuch places as you ſhall think meet, before the taking downe of the ſaid <hi>Altars,</hi> ſo as both the weake conſciences of others may be in<g ref="char:EOLhyphen"/>ſtructed and ſatisfied as much as may be, and this our pleaſure the more quietly executed; For the better doing whereof, we require you to open the fore-ſaid conſiderations in that our <hi>Cathedrall Church</hi> in your owne perſon, if you conveniently may, or otherwiſe by your <hi>Chancellor,</hi> or ſome other grave <hi>Preacher,</hi> both there, and in ſuch other
+<pb n="3" facs="tcp:156896:3"/>
+               <!-- PDF PAGE 81 -->Market Townes, and moſt notable places of your Dioceſſe, as you may think moſt requiſite.</p>
+            <closer>
+               <dateline>Given under our Signet at our Palace at <hi>Weſtminſter</hi> 
+                  <date>the 24 day of <hi>November,</hi> in the fourth yeare of our Raigne.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Edward Somerſet.</item>
+                     <item>Thomas Cranmer:</item>
+                     <item>William Wiltſhire.</item>
+                     <item>Iohn Warwick.</item>
+                     <item>Iohn Bedford.</item>
+                     <item>William North.</item>
+                     <item>Edw. Clinton.</item>
+                     <item>Hen. Wentworth.</item>
+                     <item>Thom. Ely.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="reasons">
+            <pb n="4" facs="tcp:156896:4"/>
+            <!-- PDF PAGE 82 -->
+            <head>Reaſons why the Lords Board ſhould rather be after the forme of a <hi>Table</hi> then of an <hi>Altar.</hi>
+            </head>
+            <p>
+               <label>The Firſt Reaſon.</label>
+               <lb/>
+FIrſt the Forme of a <hi>Table</hi> ſhall more move the ſimple from the ſuperſtitious opinions of the Popiſh Maſſe unto the right uſe of the Lords Supper; for the uſe of an <hi>Altar</hi> is to make Sacrifice upon it, the uſe of a <hi>Table</hi> is to ſerve for men to eat upon. Now when we come to the <hi>Lords Boord,</hi> what doe wee come for? to Sacrifice Chriſt a<g ref="char:EOLhyphen"/>gain, and to Crucifie him again, or to feed upon him, that was once only crucified and offered up for us? If wee come to feed upon him, ſpiritually to eate his body, and ſpiritually to drinke his blood, which is a true uſe of the <hi>Lords Supper,</hi> then no man can deny but the form of a <hi>Table</hi> is more
+<pb n="5" facs="tcp:156896:4"/>
+               <!-- PDF PAGE 82 -->meete for the <hi>Lords Boord,</hi> then the forme of an <hi>Altar.</hi>
+            </p>
+            <p>
+               <label>mhe Second reaſon.</label>
+               <lb/>
+ITem, Whereas it is ſaid that the Book of <hi>Com<g ref="char:EOLhyphen"/>mon Prayer</hi> maketh mention of an <hi>Altar</hi> where<g ref="char:EOLhyphen"/>fore it is not lawfull to aboliſh that which the Book alloweth, to this it is thus anſwered, <hi>The Book of Common Prayer</hi> calleth the thing whereup<g ref="char:EOLhyphen"/>on the Lords ſupper is miniſtred indifferently a <hi>Table,</hi> an <hi>Altar,</hi> or the <hi>Lords Boord,</hi> without pre<g ref="char:EOLhyphen"/>ſcription of any forme thereof, either of a <hi>Table</hi> or of an <hi>Altar;</hi> ſo that whether the <hi>Lords boord</hi> have the forme of an <hi>Altar</hi> or of a <hi>Table</hi> the <hi>Book of Common Prayer</hi> calleth it both an <hi>Altar</hi> and a <hi>Table;</hi> For as it calleth it an <hi>Altar</hi> whereupon the <hi>Lords Supper</hi> is miniſtred a <hi>Table</hi> and the <hi>Lords boord,</hi> ſo it calleth the <hi>Table</hi> where the <hi>holy Commu<g ref="char:EOLhyphen"/>nion</hi> is diſtributed with lauds and thanksgiving unto the Lord, an <hi>Altar,</hi> for that there is offered the ſame ſacrifice of praiſe and thankſgiving, and thus it appeareth that there is nothing either ſaid or meant contrary to the Book of <hi>Common Prayer.</hi>
+            </p>
+            <p>
+               <label>The third Reaſon.</label>
+               <lb/>
+THirdly, the Popiſh opinion of Maſſe was that it might not bee celebrated but upon an <hi>Altar</hi> or at the leaſt upon a <hi>Super-Altar</hi> to ſupply the
+<pb n="6" facs="tcp:156896:5"/>
+               <!-- PDF PAGE 83 -->fault of the <hi>Altar,</hi> which muſt have had his prints and Character, or elſe it was thought that the thing was not lawfully done; but this ſuperſtiti<g ref="char:EOLhyphen"/>ous opinion is more holden in the minds of the ſimple and ignorant by the forme of an <hi>Altar</hi> then of a <hi>Table,</hi> wherefore it is more meete for the a<g ref="char:EOLhyphen"/>boliſhment of this ſuperſtitious opinion, to have the <hi>Lords Boord</hi> after the forme of a <hi>Table</hi> then of an <hi>Altar.</hi>
+            </p>
+            <p>
+               <label>The Fourth Reaſon.</label>
+               <lb/>
+FOurthly, The forme of an <hi>Altar</hi> was ordai<g ref="char:EOLhyphen"/>ned for the Sacrifices of the Law and there<g ref="char:EOLhyphen"/>fore the <hi>Altar</hi> in Greeke is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>quaſi Sacrificii locus,</hi> but now both the <hi>Law</hi> and the <hi>Sa<g ref="char:EOLhyphen"/>crifices</hi> thereof doe ceaſe, wherefore the Forme of the <hi>Altar</hi> uſed in the <hi>Altar</hi> ought to ceaſe with<g ref="char:EOLhyphen"/>all.</p>
+            <p>
+               <label>The Fifth Reaſon.</label>
+               <lb/>
+FIftly, Chriſt did inſtitute the Sacrament of his body and bloud at his laſt Supper at a <hi>Ta<g ref="char:EOLhyphen"/>ble</hi> and not at an <hi>Altar,</hi> as it appeareth manifeſtly by the three <hi>Evangeliſts,</hi> and St. <hi>Paul</hi> calleth the comming to the holy Communion the comming unto the <hi>Lords Supper,</hi> and alſo it is not read that any of the Apoſtles or the primitive Church did ever uſe any <hi>Altar</hi> in miniſtration of the holy
+<pb n="7" facs="tcp:156896:5"/>
+               <!-- PDF PAGE 83 -->Communion; wherefore ſeeing the form of a <hi>Ta<g ref="char:EOLhyphen"/>ble</hi> is more agree<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble to Chriſts inſtitution, and with the uſage of the Apoſtles and of the Pri<g ref="char:EOLhyphen"/>mitive Church, then the forme of an <hi>Altar,</hi> there<g ref="char:EOLhyphen"/>fore the forme of a <hi>Table</hi> is rather to be uſed then the forme of an <hi>Altar</hi> in the adminiſtration of the <hi>Holy Communion.</hi>
+            </p>
+            <p>
+               <label>The Sixth Reaſon.</label>
+               <lb/>
+FInally it is ſaid in the Preface of the Book of Common Prayer, that if any doubt doe ariſe in the uſe and practiſing of the ſame Book, to ap<g ref="char:EOLhyphen"/>peaſe all ſuch diverſity, the matter ſhal be referr'd unto the Biſhop of the Dioceſſe, who by his diſ<g ref="char:EOLhyphen"/>cretion ſhal take order for the quieting and appea<g ref="char:EOLhyphen"/>ſing of the ſame, ſo that the ſame order be not contrary to any thing contained in that book.</p>
+            <p>After theſe letters and reaſons received, the forenamed <hi>Nicholas Ridley,</hi> Bp. of <hi>London,</hi> conſe<g ref="char:EOLhyphen"/>quently upon the ſame did hold his Viſitation, wherein, amongſt other his Injunctions, the ſaid Bp. exhorted thoſe Churches in his Dioceſſe where the <hi>Altar</hi> then did remaine to conforme themſelves unto thoſe other Churches which had taken them downe, and had ſet up in ſtead of the multitude of their <hi>Altars,</hi> one decent <hi>Table</hi> in e<g ref="char:EOLhyphen"/>very Church: Upon the occaſion whereof there aroſe a great diverſity about the form of the <hi>Lords Boord,</hi> ſome uſing it after the form of a <hi>Table,</hi> and
+<pb n="4" facs="tcp:156896:6"/>
+               <!-- PDF PAGE 84 -->ſome of an <hi>Altar,</hi> wherein when the ſaid Biſhop was required to ſay and determine what was moſt meet, he declared, he could do no leſs of his boun<g ref="char:EOLhyphen"/>den duty for appeaſing of ſuch diverſity, &amp; to pro<g ref="char:EOLhyphen"/>cure one godly uniformity, but to exhort all his Dioces unto that which he thought did beſt agree with Scripture, with the uſage of the Apoſtles, and with the Primitive Church, and to that which is not only not contrary unto any thing contained in the Book of <hi>Common Prayer,</hi> as is is before pro<g ref="char:EOLhyphen"/>ved, but alſo might highly further the Kings moſt godly proceedings, in aboliſhing of diverſe vaine and ſuperſtitious opinions of the Popiſh maſſe out of the hearts of the ſimple, and to bring them to the right uſe taught by holy Scripture of the <hi>Lords Supper,</hi> and ſo appointed, he the forme of a right <hi>Table</hi> to be uſed in his Dioceſſe, and in the Church of <hi>Paul</hi> brake down the wall ſtanding then by the High <hi>Altars</hi> ſide.</p>
+            <p>BY the preceding paſſages, the whole World may ſee, that in all times there will bee Champions found to defend all o<g ref="char:EOLhyphen"/>pinious; you ſee how <hi>Tables</hi> did then cry downe <hi>Altars,</hi> and how <hi>Altars</hi> of late have thruſt out <hi>Tables,</hi> and Biſhops defending both according to the Current and humour of the time, or rather according to the in<g ref="char:EOLhyphen"/>diſputable command of the <hi>Metropolitan;</hi>
+               <pb n="5" facs="tcp:156896:6"/>
+               <!-- PDF PAGE 84 -->to whoſe papall pride and Lording greatneſs all the reſt of the <hi>Prelats</hi> by oath and Cano<g ref="char:EOLhyphen"/>nicall obedience are ſlaviſhly ſubſervient. Which uſurped and inſufferable dominati<g ref="char:EOLhyphen"/>on hath beene the chiefe cauſe of all the <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> troubles and <hi>Innovations</hi> both in <hi>Chur<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Common Wealth:</hi> But it is hoped that <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> generating order of <hi>Biſhops</hi> (under <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this <hi>Kingdome</hi> groanes) will by this <hi>P<gap reason="illegible: damage" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ment</hi> be either wholy taken away, or b<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ded within ſuch Limits, that their Lor<gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> power, pride, and cruelty, ſhall ſwell <gap reason="illegible: damage" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>more above the banks of moderation to t<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ruine of the <hi>Church</hi> and <hi>Common Wealth.</hi> 
+               <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if any <hi>Dutifull ſonne</hi> of the <hi>Church</hi> will ſtan<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up in the defence of that order, and invocat<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Holy Apoſtles to juſtifie the inſtitution and antiquity of <hi>Epiſcopacie;</hi> if that ſhall bee yielded, then let them be reduced to that Primitive condition; or (becauſe they have ſo much abuſed bounty of Princes) for ever loſe the plea and Title.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
